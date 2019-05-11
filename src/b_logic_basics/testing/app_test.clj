@@ -1,3 +1,5 @@
+; Licensed under GPL-3
+
 (ns b-logic-basics.testing.app-test
   (:require [compojure.core :refer [ANY GET POST routes]]
             [b-logic-basics.http.middleware :as mid]

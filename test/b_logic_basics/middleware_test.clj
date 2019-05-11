@@ -1,3 +1,5 @@
+; Licensed under GPL-3
+
 (ns b-logic-basics.middleware-test
   (:require [clojure.test :refer :all]
             [ring.mock.request :as mock]

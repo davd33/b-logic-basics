@@ -1,3 +1,5 @@
+; Licensed under GPL-3
+
 (ns b-logic-basics.storage-test
   (:require [clojure.test :refer :all]
             [b-logic-basics.storage.core :as stg]

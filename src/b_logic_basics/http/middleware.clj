@@ -1,3 +1,5 @@
+; Licensed under GPL-3
+
 (ns b-logic-basics.http.middleware
   (:require [cheshire.core :as json]
             [ring.util.response :as resp])

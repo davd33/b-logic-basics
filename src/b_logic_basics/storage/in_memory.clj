@@ -1,3 +1,5 @@
+; Licensed under GPL-3
+
 (ns b-logic-basics.storage.in-memory
   (:require [b-logic-basics.storage.core :refer :all]))
 

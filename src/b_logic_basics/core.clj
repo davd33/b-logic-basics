@@ -1,3 +1,5 @@
+; Licensed under GPL-3
+
 (ns b-logic-basics.core)
 
 (defn foo
